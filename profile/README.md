@@ -1,5 +1,5 @@
 <p align="center" style="margin-bottom: 4px;">
-  <img src="astro_dept_logo.png" alt="UC Berkeley Astronomy Department" height="80">
+  <img src="../astro_dept_logo.png" alt="UC Berkeley Astronomy Department" height="80">
 </p>
 <h1 align="center" style="margin-top: 0;">
   🌌 BAD Grads
