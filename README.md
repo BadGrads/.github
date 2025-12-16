@@ -1,7 +1,12 @@
-![UC Berkeley Astronomy Department](astro_dept_logo.png)
-
-# 🌌 BAD Grads
-**Berkeley Astronomy Department Graduate Students**
+<p align="center" style="margin-bottom: 4px;">
+  <img src="astro_dept_logo.png" alt="UC Berkeley Astronomy Department" height="80">
+</p>
+<h1 align="center" style="margin-top: 0;">
+  🌌 BAD Grads
+</h1>
+<p align="center" style="margin-top: 0;">
+  <strong>Berkeley Astronomy Department Graduate Students</strong>
+</p>
 
 Welcome to the GitHub home of the **UC Berkeley Astronomy Department graduate student community** — affectionately known as **BAD Grads**.
 
