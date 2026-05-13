@@ -120,7 +120,7 @@ non-organization users.
 **Graduate Resources** (Private):
 
 - [Qualifying Exam]() (In Progress)
-- [Preliminary Exam]() (In Progress)
+- [Preliminary Exam](https://github.com/BadGrads/PreliminaryExam)
 - [Thesis]() (In Progress)
 
 
