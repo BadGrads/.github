@@ -102,4 +102,27 @@ Perfection is not required — clarity and kindness are.
 If you have ideas, questions, or improvements, start a conversation.  
 This organization grows with each cohort.
 
+---
+
+# Repositories
+
+For easy access, the following is a list of repositories. Many of these are private and will be locked to 
+non-organization users.
+
+**The Wiki Repository** (Public): https://github.com/BadGrads/BadGradWiki
+
+**Courses** (Private):
+
+- [ASTRON 7A](https://github.com/BadGrads/ASTRON_7A)
+- [ASTRON 7B](https://github.com/BadGrads/ASTRON_7B)
+- [ASTRON C10](https://github.com/BadGrads/ASTRON_C10)
+
+**Graduate Resources** (Private):
+
+- [Qualifying Exam]() (In Progress)
+- [Preliminary Exam]() (In Progress)
+- [Thesis]() (In Progress)
+
+
+
 
